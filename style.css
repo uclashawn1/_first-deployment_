@@ -1,0 +1,40 @@
+body {
+    background-color: #777; 
+    color:#777;
+    width: 960px;
+    font: 18px;
+}
+header {
+    background: #ebebeb;
+    height: 20px;
+    padding: 5px;
+    border: solid #777 5px;
+}
+nav {
+    background: #ebebeb;
+    height: 20px;
+    padding: 5px;
+    border: solid #777 5px;
+}
+section {
+    float: left;
+    width: 60%;
+    height: 80px;
+    background: #ebebeb;
+    padding: 5px;
+    border: solid #777 15px;
+}
+aside {
+    float: right;
+    width: 30%;
+    height: 80px;
+    background: #ebebeb;
+    padding: 5px;
+    border: solid #777 15px;
+}
+footer {
+    background: #ebebeb;
+    height: 20px;
+    padding: 5px;
+    border: solid #777 5px;
+}
